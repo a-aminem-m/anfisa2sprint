@@ -1,5 +1,7 @@
 # Anfisa Ice Cream Catalog
 
+###### (This project was developed during the "Python Developer" training program at [Yandex.Practicum](https://practicum.yandex.ru/), as a part of the learning curriculum.)
+
 Welcome to the **Anfisa Ice Cream Catalog** project! This Django-based web application is designed to create a comprehensive catalog of various ice cream varieties. Users can explore individual ice cream flavors, while administrators have the ability to curate the main selection displayed on the homepage.
 
 ## Project Structure
