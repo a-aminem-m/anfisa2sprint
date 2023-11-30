@@ -12,27 +12,6 @@ The project is organized into three main applications:
 
 3. **About Page App**: Provides information about the project, its purpose, and any additional details.
 
-## Tasks for the First Sprint
-
-In this initial sprint, our goals are as follows:
-
-### Project Setup
-
-Create the project structure for "Anfisa for Friends" using Django version 3.2.
-
-### App Creation
-
-- Main Page App
-- Catalog App
-- About Page App
-
-### Page Creation
-
-1. **Homepage**: Displays a curated list of ice cream flavors set by the admin.
-2. **Full Catalog**: Presents a comprehensive list of all available ice cream flavors.
-3. **Individual Flavor Pages**: Dedicated pages for each ice cream flavor.
-4. **About Project**: An informative page describing the purpose and details of the project.
-
 ## Getting Started
 
 Follow these steps to set up and run the project locally:
